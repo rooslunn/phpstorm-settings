@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b588b060-342b-4549-b1ef-d750246f966f" name="umdev1-my" url="http://umdev1-my.badvps.com">
+        <fileTransfer host="umdev1-my.badvps.com" port="22" rootFolder="/home/univermag/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
