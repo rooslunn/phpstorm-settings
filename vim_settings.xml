@@ -465,12 +465,12 @@
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1517731725692">
+      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1517738715613">
         <mark key="'" line="18" column="4" />
-        <mark key="[" line="66" column="68" />
-        <mark key="]" line="66" column="68" />
-        <mark key="^" line="66" column="68" />
-        <mark key="." line="66" column="68" />
+        <mark key="[" line="70" column="67" />
+        <mark key="]" line="70" column="65" />
+        <mark key="^" line="70" column="43" />
+        <mark key="." line="70" column="65" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Models/Users.php" timestamp="1515684304795">
         <mark key="[" line="16" column="5" />
@@ -484,11 +484,11 @@
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/um/tests/Feature/LandingToStreamTest.php" timestamp="1517728668455">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="30" />
-        <mark key="^" line="33" column="30" />
+      <file name="$USER_HOME$/projects/um/tests/Feature/LandingToStreamTest.php" timestamp="1517738062402">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="42" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Http/Controllers/UsersController.php" timestamp="1515503874406">
         <mark key="[" line="8" column="0" />
@@ -770,11 +770,11 @@
       <jump line="18" column="4" filename="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">L3N0b3JhZ2UvbGFuZGluZ3MK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>$curr_stream_dir</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
@@ -783,31 +783,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHJvdXRlci1saW5rIDp0bz0ieyBuYW1lOiAndXNlcnMuaW5kZXgnIH0iPlVzZXJzPC9yb3V0ZXItbGluaz5WCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L3N0b3JhZ2UvbGFuZGluZ3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nOjpkZWJ1ZygiRXJyb3Igd2hpbGUgY3JlYXRpbmcgZGlyIGZvciBzdHJlYW0iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm1kaXIoJGN1cnJfc3RyZWFtX2Rpcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZG9uZSA9IChuZXcgVXNlQ2FzZSkoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3N0b3JhZ2UvbGFuZGluZ3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm1kaXIoJGN1cnJfc3RyZWFtX2Rpcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBta2RpcigkY3Vycl9zdHJlYW1fZGlyLCAwNzc3LCB0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBta2RpcigkY3Vycl9zdHJlYW1fZGlyLCAwNzc3LCB0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHByb2Nlc3M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>531</text>
@@ -871,6 +871,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
