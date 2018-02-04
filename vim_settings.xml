@@ -32,11 +32,11 @@
         <mark key="^" line="29" column="7" />
         <mark key="." line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Streams/PostController.php" timestamp="1517679196411">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="17" column="46" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="17" column="46" />
+      <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Streams/PostController.php" timestamp="1517739604887">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="19" column="47" />
+        <mark key="^" line="19" column="47" />
+        <mark key="." line="19" column="47" />
       </file>
       <file name="$USER_HOME$/projects/newum/resources/assets/js/views/App.vue" timestamp="1517660752501">
         <mark key="[" line="7" column="74" />
@@ -465,12 +465,12 @@
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1517738715613">
+      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1517740163018">
         <mark key="'" line="18" column="4" />
-        <mark key="[" line="70" column="67" />
-        <mark key="]" line="70" column="65" />
-        <mark key="^" line="70" column="43" />
-        <mark key="." line="70" column="65" />
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="41" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Models/Users.php" timestamp="1515684304795">
         <mark key="[" line="16" column="5" />
@@ -484,11 +484,12 @@
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/um/tests/Feature/LandingToStreamTest.php" timestamp="1517738062402">
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="42" />
-        <mark key="." line="32" column="42" />
-        <mark key="^" line="32" column="42" />
+      <file name="$USER_HOME$/projects/um/tests/Feature/LandingToStreamTest.php" timestamp="1517739596503">
+        <mark key="'" line="23" column="45" />
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="50" />
+        <mark key="." line="23" column="50" />
+        <mark key="^" line="23" column="50" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Http/Controllers/UsersController.php" timestamp="1515503874406">
         <mark key="[" line="8" column="0" />
@@ -768,13 +769,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/um/storage/logs/laravel.log" />
       <jump line="1" column="11" filename="$USER_HOME$/projects/um/storage/logs/laravel.log" />
       <jump line="18" column="4" filename="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" />
+      <jump line="23" column="45" filename="$USER_HOME$/projects/um/tests/Feature/LandingToStreamTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
@@ -783,31 +785,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHJvdXRlci1saW5rIDp0bz0ieyBuYW1lOiAndXNlcnMuaW5kZXgnIH0iPlVzZXJzPC9yb3V0ZXItbGluaz5WCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nOjpkZWJ1ZygiRXJyb3Igd2hpbGUgY3JlYXRpbmcgZGlyIGZvciBzdHJlYW0iKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZG9uZSA9IChuZXcgVXNlQ2FzZSkoJHJlcXVlc3QpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">L3N0b3JhZ2UvbGFuZGluZ3MK</text>
+        <text encoding="base64">ICAgICAgICBleGVjKCJta2RpciAtcCB7JGN1cnJfc3RyZWFtX2Rpcn0iLCAkb3V0cHV0ZSwgJHJldHZhcikgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm1kaXIoJGN1cnJfc3RyZWFtX2Rpcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ2xlYXIgc3RyZWFtcyBmb2xkZXIKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlYXJEb3duKCk6IHZvaWQKICAgIHsKICAgICAgICAkc3RyZWFtc19wYXRoID0gY29uZmlnKCduZXd1bS5zdHJlYW1zLXBhdGgnKTsKICAgICAgICAkY21kID0gInJtIC1yZiB7JHN0cmVhbXNfcGF0aH0iOwogICAgICAgIHNoZWxsX2V4ZWMoJGNtZCk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nOjpkZWJ1ZygiRXJyb3Igd2hpbGUgY3JlYXRpbmcgZGlyIGZvciBzdHJlYW0iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBta2RpcigkY3Vycl9zdHJlYW1fZGlyLCAwNzc3LCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZG9uZSA9IChuZXcgVXNlQ2FzZSkoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3N0b3JhZ2UvbGFuZGluZ3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm1kaXIoJGN1cnJfc3RyZWFtX2Rpcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>531</text>
@@ -874,6 +876,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
