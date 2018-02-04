@@ -166,11 +166,11 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/views/streams/create.blade.php" timestamp="1517761358065">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-        <mark key="^" line="11" column="30" />
+      <file name="$USER_HOME$/projects/um/resources/views/streams/create.blade.php" timestamp="1517765568423">
+        <mark key="[" line="13" column="66" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Support/UmBladeCompiler.php" timestamp="1517758886985">
         <mark key="[" line="13" column="0" />
@@ -546,9 +546,9 @@
         <mark key="." line="16" column="48" />
         <mark key="^" line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/common/PageHead.vue" timestamp="1517763568789">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="21" column="29" />
+      <file name="$USER_HOME$/projects/um/resources/assets/js/components/common/PageHead.vue" timestamp="1517765316901">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="9" />
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
@@ -795,17 +795,17 @@
       <jump line="27" column="58" filename="$USER_HOME$/projects/um/resources/assets/js/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VnVlLmNvbXBvbmVudCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>UserIndex</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qgcm91dGVyID0gbmV3IFZ1ZVJvdXRlcih7CiAgICBtb2RlOiAnaGlzdG9yeScsCiAgICByb3V0ZXM6IFsKICAgICAgICB7CiAgICAgICAgICAgIHBhdGg6ICcvJywKICAgICAgICAgICAgbmFtZTogJ2hvbWUnLAogICAgICAgICAgICBjb21wb25lbnQ6IEhvbWUKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgcGF0aDogJy9oZWxsbycsCiAgICAgICAgICAgIG5hbWU6ICdoZWxsbycsCiAgICAgICAgICAgIGNvbXBvbmVudDogSGVsbG8sCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgIHBhdGg6ICcvdXNlcnMnLAogICAgICAgICAgICBuYW1lOiAndXNlcnMuaW5kZXgnLAogICAgICAgICAgICBjb21wb25lbnQ6IFVzZXJJbmRleCwKICAgICAgICB9LAogICAgXSwKfSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PHJvdXRlci1saW5rIDp0bz0ieyBuYW1lOiAnc3RyZWFtcy5jcmVhdGUnIH0iPlVzZXJzPC9yb3V0ZXItbGluaz4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VnVlLmNvbXBvbmVudCgpCg==</text>
