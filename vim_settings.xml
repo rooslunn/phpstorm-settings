@@ -484,10 +484,11 @@
         <mark key="." line="23" column="26" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/VarPropagator.php" timestamp="1517748270032">
-        <mark key="[" line="24" column="49" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/VarPropagator.php" timestamp="1517754685418">
+        <mark key="[" line="28" column="49" />
+        <mark key="]" line="28" column="57" />
+        <mark key="." line="28" column="57" />
+        <mark key="^" line="28" column="57" />
       </file>
       <file name="$USER_HOME$/projects/um/tests/Feature/LandingToStreamTest.php" timestamp="1517739596503">
         <mark key="'" line="23" column="45" />
