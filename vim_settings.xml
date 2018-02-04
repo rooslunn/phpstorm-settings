@@ -421,11 +421,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/um/database/migrations/2018_01_29_102409_create_streams_table.php" timestamp="1517683469175">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="19" column="64" />
+      <file name="$USER_HOME$/projects/um/database/migrations/2018_01_29_102409_create_streams_table.php" timestamp="1517750498047">
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Contracts/UseCaseResponse.php" timestamp="1516193130110">
         <mark key="[" line="13" column="29" />
@@ -465,12 +465,12 @@
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1517740163018">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="29" column="42" />
-        <mark key="]" line="29" column="42" />
-        <mark key="." line="29" column="42" />
-        <mark key="^" line="29" column="41" />
+      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1517750704427">
+        <mark key="'" line="53" column="46" />
+        <mark key="[" line="53" column="46" />
+        <mark key="]" line="48" column="35" />
+        <mark key="." line="48" column="35" />
+        <mark key="^" line="48" column="35" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Models/Users.php" timestamp="1515684304795">
         <mark key="[" line="16" column="5" />
@@ -770,6 +770,7 @@
       <jump line="1" column="11" filename="$USER_HOME$/projects/um/storage/logs/laravel.log" />
       <jump line="18" column="4" filename="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" />
       <jump line="23" column="45" filename="$USER_HOME$/projects/um/tests/Feature/LandingToStreamTest.php" />
+      <jump line="53" column="46" filename="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
