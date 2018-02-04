@@ -50,8 +50,10 @@
         <mark key="." line="38" column="7" />
         <mark key="^" line="38" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/um/.gitignore" timestamp="1517429351708">
-        <mark key="[" line="2" column="11" />
+      <file name="$USER_HOME$/projects/um/.gitignore" timestamp="1517732061328">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/assets/js/components/SpaceModal.vue" timestamp="1516117651661">
         <mark key="[" line="51" column="119" />
@@ -463,12 +465,12 @@
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1517728751546">
+      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1517731725692">
         <mark key="'" line="18" column="4" />
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="32" />
-        <mark key="^" line="25" column="32" />
-        <mark key="." line="25" column="32" />
+        <mark key="[" line="66" column="68" />
+        <mark key="]" line="66" column="68" />
+        <mark key="^" line="66" column="68" />
+        <mark key="." line="66" column="68" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Models/Users.php" timestamp="1515684304795">
         <mark key="[" line="16" column="5" />
@@ -768,11 +770,11 @@
       <jump line="18" column="4" filename="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">L3N0b3JhZ2UvbGFuZGluZ3MK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$curr_stream_dir</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
@@ -781,31 +783,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPHJvdXRlci1saW5rIDp0bz0ieyBuYW1lOiAndXNlcnMuaW5kZXgnIH0iPlVzZXJzPC9yb3V0ZXItbGluaz5WCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3N0b3JhZ2UvbGFuZGluZ3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm1kaXIoJGN1cnJfc3RyZWFtX2Rpcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBta2RpcigkY3Vycl9zdHJlYW1fZGlyLCAwNzc3LCB0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBta2RpcigkY3Vycl9zdHJlYW1fZGlyLCAwNzc3LCB0cnVlKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHByb2Nlc3M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvY2Vzc1tdID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHByb2Nlc3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>531</text>
