@@ -45,9 +45,6 @@
         <mark key="^" line="6" column="67" />
         <mark key="." line="6" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1517757601303">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/um/app/Models/Landings.php" timestamp="1517305078770">
         <mark key="[" line="37" column="42" />
         <mark key="]" line="38" column="7" />
@@ -166,10 +163,11 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/views/streams/create.blade.php" timestamp="1517773403989">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/projects/um/resources/views/streams/create.blade.php" timestamp="1517819961798">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Support/UmBladeCompiler.php" timestamp="1517758886985">
         <mark key="[" line="13" column="0" />
@@ -213,9 +211,9 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/common/InputSelectAjax.vue" timestamp="1517598283775">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="16" />
+      <file name="$USER_HOME$/projects/um/resources/assets/js/components/common/InputSelectAjax.vue" timestamp="1517820123190">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="30" />
         <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="19" />
       </file>
@@ -399,11 +397,11 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/SpaceEditModal.vue" timestamp="1517317417839">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="47" column="44" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
+      <file name="$USER_HOME$/projects/um/resources/assets/js/components/SpaceEditModal.vue" timestamp="1517820146253">
+        <mark key="[" line="153" column="16" />
+        <mark key="]" line="153" column="16" />
+        <mark key="^" line="131" column="17" />
+        <mark key="." line="153" column="16" />
       </file>
       <file name="$USER_HOME$/projects/um/public/css/.gitignore" timestamp="1517429330975">
         <mark key="[" line="0" column="46" />
@@ -421,9 +419,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/newum/resources/assets/js/views/Hello.vue" timestamp="1517585826851">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/.env" timestamp="1516268333215">
         <mark key="[" line="6" column="0" />
@@ -464,9 +459,6 @@
         <mark key="]" line="17" column="46" />
         <mark key="^" line="17" column="46" />
         <mark key="." line="17" column="46" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1517495337072">
-        <mark key="[" line="0" column="55" />
       </file>
       <file name="$USER_HOME$/projects/um/database/migrations/2018_01_02_124712_create_users_table.php" timestamp="1515754800855">
         <mark key="[" line="17" column="45" />
@@ -639,9 +631,6 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="/PHP Console" timestamp="1517675699018">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/um/app/Scopes/UserScope.php" timestamp="1517479658398">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="24" column="53" />
@@ -654,11 +643,11 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/common/InputSubmit.vue" timestamp="1517772680504">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
-        <mark key="^" line="3" column="68" />
+      <file name="$USER_HOME$/projects/um/resources/assets/js/components/common/InputSubmit.vue" timestamp="1517819878294">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/tests/gog/.env" timestamp="1516371852467">
         <mark key="[" line="12" column="12" />
@@ -671,9 +660,6 @@
         <mark key="]" line="20" column="26" />
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1517747723104">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/database/factories/SpaceFactory.php" timestamp="1515749663973">
         <mark key="[" line="9" column="27" />
@@ -753,9 +739,6 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/newum/resources/assets/js/views/Home.vue" timestamp="1517585815848">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/projects/um/routes/web.php" />
@@ -808,17 +791,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/um/storage/logs/laravel.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJ2RvbWFpbnMnLCAnQXBpXFNlbGVjdFxEb21haW5zQ29udHJvbGxlcicpLT5uYW1lKCdhcGkuc2VsZWN0LmRvbWFpbnMnKTsK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
