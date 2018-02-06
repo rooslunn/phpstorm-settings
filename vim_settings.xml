@@ -277,10 +277,10 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/NavBar.vue" timestamp="1517315044465">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
+      <file name="$USER_HOME$/projects/um/resources/assets/js/components/NavBar.vue" timestamp="1517860425435">
+        <mark key="[" line="21" column="97" />
+        <mark key="]" line="21" column="97" />
+        <mark key="." line="21" column="97" />
         <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/projects/um/storage/landing/1414/index.html" timestamp="1516280081265">
@@ -643,11 +643,11 @@
         <mark key="^" line="24" column="53" />
         <mark key="." line="24" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/views/layouts/default.blade.php" timestamp="1517857340564">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="26" />
-        <mark key="." line="32" column="26" />
-        <mark key="^" line="31" column="29" />
+      <file name="$USER_HOME$/projects/um/resources/views/layouts/default.blade.php" timestamp="1517857370457">
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="^" line="32" column="33" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/assets/js/components/common/InputSubmit.vue" timestamp="1517831682746">
         <mark key="[" line="22" column="0" />
@@ -804,10 +804,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
