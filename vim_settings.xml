@@ -94,11 +94,11 @@
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/um/database/seeds/TestUsersSeeder.php" timestamp="1516093172588">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="28" column="35" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/projects/um/database/seeds/TestUsersSeeder.php" timestamp="1517931704448">
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="34" />
+        <mark key="^" line="75" column="34" />
+        <mark key="." line="75" column="34" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/assets/js/components/common/InputCheckbox.vue" timestamp="1517841878522">
         <mark key="[" line="7" column="35" />
@@ -136,11 +136,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/Models/Stream.php" timestamp="1517752299442">
-        <mark key="[" line="8" column="82" />
-        <mark key="]" line="8" column="83" />
-        <mark key="^" line="8" column="86" />
-        <mark key="." line="8" column="83" />
+      <file name="$USER_HOME$/projects/um/app/Models/Stream.php" timestamp="1517933487694">
+        <mark key="[" line="8" column="87" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Http/Controllers/PersonalController.php" timestamp="1515763029670">
         <mark key="[" line="22" column="32" />
@@ -171,13 +171,6 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="71" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/views/streams/create.blade.php" timestamp="1517909826985">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="30" />
-      </file>
       <file name="$USER_HOME$/projects/um/app/Support/UmBladeCompiler.php" timestamp="1517758886985">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="14" column="24" />
@@ -207,13 +200,6 @@
         <mark key="]" line="29" column="42" />
         <mark key="^" line="29" column="42" />
         <mark key="." line="29" column="42" />
-      </file>
-      <file name="$USER_HOME$/projects/um/routes/api.php" timestamp="1517920711484">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="41" column="54" />
-        <mark key="]" line="41" column="54" />
-        <mark key="." line="41" column="54" />
-        <mark key="^" line="41" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a5aeab3-e8c8-4dfe-bd83-343dfbf2f20a/console.sql" timestamp="1516112245302">
         <mark key="[" line="0" column="0" />
@@ -378,11 +364,11 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Streams/TableHeadersController.php" timestamp="1517928408131">
-        <mark key="[" line="17" column="38" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="35" />
+      <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Streams/TableHeadersController.php" timestamp="1517932542607">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="67" />
+        <mark key="." line="15" column="67" />
+        <mark key="^" line="15" column="67" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Traits/UmMigrationDates.php" timestamp="1517581705132">
         <mark key="[" line="11" column="41" />
@@ -408,8 +394,10 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/lang/en/streams.php" timestamp="1517928264157">
-        <mark key="[" line="13" column="39" />
+      <file name="$USER_HOME$/projects/um/resources/lang/en/streams.php" timestamp="1517933645787">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
       </file>
       <file name="$USER_HOME$/tests/gog/app/Providers/AppServiceProvider.php" timestamp="1516372908879">
         <mark key="[" line="4" column="39" />
@@ -460,11 +448,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/um/database/migrations/2018_01_29_102409_create_streams_table.php" timestamp="1517753808855">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="46" />
-        <mark key="." line="28" column="46" />
-        <mark key="^" line="28" column="46" />
+      <file name="$USER_HOME$/projects/um/database/migrations/2018_01_29_102409_create_streams_table.php" timestamp="1517933389672">
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Select/LandingsController.php" timestamp="1517770579519">
         <mark key="[" line="12" column="7" />
@@ -523,15 +511,11 @@
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/um/routes/web.php" timestamp="1517922076207">
-        <mark key="'" line="276" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="27" />
-      </file>
-      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1517927302337">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1517933450828">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="54" column="29" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Models/Users.php" timestamp="1515684304795">
         <mark key="[" line="16" column="5" />
@@ -598,17 +582,22 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/um/config/newum.php" timestamp="1517769143637">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-        <mark key="." line="18" column="43" />
+      <file name="$USER_HOME$/projects/um/config/newum.php" timestamp="1517932555824">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/storage/landing/1414/styles.css" timestamp="1516279626748">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b3cbd126-d850-401e-87de-3bec14989f2f/console.sql" timestamp="1517931467326">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/projects/um/database/factories/SpacesSourceFactory.php" timestamp="1516114033375">
         <mark key="[" line="8" column="22" />
@@ -634,11 +623,11 @@
         <mark key="^" line="11" column="5" />
         <mark key="." line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Streams/TableItemsController.php" timestamp="1517929678729">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="35" />
-        <mark key="." line="21" column="35" />
-        <mark key="^" line="21" column="35" />
+      <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Streams/TableItemsController.php" timestamp="1517933346760">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/views/spaces/index.blade.php" timestamp="1517926735166">
         <mark key="[" line="50" column="0" />
@@ -696,11 +685,11 @@
         <mark key="^" line="24" column="53" />
         <mark key="." line="24" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/views/layouts/default.blade.php" timestamp="1517918102684">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="38" />
-        <mark key="." line="32" column="38" />
-        <mark key="^" line="32" column="38" />
+      <file name="$USER_HOME$/projects/um/resources/views/layouts/default.blade.php" timestamp="1517932958591">
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/assets/js/components/common/InputSubmit.vue" timestamp="1517831682746">
         <mark key="[" line="22" column="0" />
@@ -726,7 +715,7 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517923156235">
+      <file name="/Dummy.txt" timestamp="1517931415645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/database/factories/SpaceFactory.php" timestamp="1515749663973">
@@ -789,10 +778,11 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/AjaxTable.vue" timestamp="1517930468820">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/projects/um/resources/assets/js/components/AjaxTable.vue" timestamp="1517931988009">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="5" column="48" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/eaab5c38-fc54-455a-9cc5-f466cb287c63/console.sql" timestamp="1517845821821">
         <mark key="[" line="0" column="0" />
@@ -888,44 +878,47 @@
       <jump line="0" column="86" filename="$USER_HOME$/projects/um/storage/logs/laravel.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnUmVzcG9uc2U6ICcsIHJlc3BvbnNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Url</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Url</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdTdHJlYW0gMScsIAogICAgICAgICAgICAgICAgJ2xpbmsnID0+ICdsaW5rIDEnLAogICAgICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWVfZmlyc3QnID0+ICdMYW5kIE1hc3RlcicsCiAgICAgICAgICAgICAgICAnbmFtZV9sYXN0JyA9PiAnRmFrZScsCiAgICAgICAgICAgICAgICAnZW1haWwnID0+ICdsYW5kbWFzdGVyQHVta2EuYml6JywKICAgICAgICAgICAgICAgICdyb2xlX2lkJyA9PiA1LAogICAgICAgICAgICAgICAgJ2xvZ2luJyA9PiAnbGFuZG1hc3RlcicsCiAgICAgICAgICAgICAgICAncGFzc3dvcmQnID0+ICc3YzRhOGQwOWNhMzc2MmFmNjFlNTk1MjA5NDNkYzI2NDk0Zjg5NDFiZXNBV2ZDYlp3QXAnLAogICAgICAgICAgICAgICAgJ2hhc2gnID0+ICdiMzc2MzliNmNmMmZmMzhmYTI5NDhlODY2ODU0YTdkMycsCiAgICAgICAgICAgICAgICAnZGF0ZV9jcmVhdGUnID0+ICcxOTc2LTAyLTE0IDA2OjAwJywKICAgICAgICAgICAgICAgICdjb25maXJtJyA9PiAxLAogICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnUmVzcG9uc2U6ICcsIHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkYXR0clsndW5pcWlkJ10gPSAkc3RyZWFtX3VuaXFpZDsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQpdLAo+Pj4+Pj4+IGQ4MDY0NmRkMjVjYTEzNjAzZDJjZjgyYTZjNGYwM2UyYzMxMjJlNTQK</text>
+      <register name="3" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnbmFtZScgPT4gJ1N0cmVhbSAxJywKICAgICAgICAgICAgICAgICdsaW5rJyA9PiAnbGluayAxJywKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdTdHJlYW0gMicsCiAgICAgICAgICAgICAgICAnbGluaycgPT4gJ2xpbmsgMicsCiAgICAgICAgICAgIF0sCiAgICAgICAgXQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICdzdHJlYW0tbGlzdC1maWVsZHMnID0+IFsKICAgICAgICAgICAgdHJhbnMoJ3N0cmVhbXMubGlzdC1uYW1lJyksCiAgICAgICAgICAgIHRyYW5zKCdzdHJlYW1zLmxpc3QtbGluaycpLAogICAgXSwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkODA2NDZkZDI1Y2ExMzYwM2QyY2Y4MmE2YzRmMDNlMmMzMTIyZTU0Cg==</text>
+      <register name="5" type="4">
+        <text>[
+            trans('streams.list-name'),
+            trans('streams.list-link'),
+        ]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQoKCgogICAgICAgICAgWwoKICAgICAgICAgICAgJ25hbWUnID0+ICdMYW5kaW5nIHRvIFN0cmVhbSBUZXN0JywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUuZGVidWcoJ3RoaXMuaXRlbXM6JywgdGhpcy5pdGVtcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGVtcHR5CiAgICAgICAgICAgIDxwPk5vIFNwYWNlczwvcD4KICAgICAgICAgICAgQGVuZGZvcmVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUuZGVidWcoJ3RoaXMuaGVhZGVyczonLCB0aGlzLmhlYWRlcnMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCB2LWZvcj0iaXRlbSBpbiBpdGVtcyI+e3sgaXRlbS5saW5rIH19PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnUmVzcG9uc2U6ICcsIHJlc3BvbnNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>531</text>
