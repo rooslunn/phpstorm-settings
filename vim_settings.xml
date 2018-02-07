@@ -118,12 +118,12 @@
         <mark key="." line="94" column="17" />
         <mark key="^" line="94" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/views/AddStream.vue" timestamp="1518016836877">
+      <file name="$USER_HOME$/projects/um/resources/assets/js/components/views/AddStream.vue" timestamp="1518017747890">
         <mark key="'" line="73" column="31" />
-        <mark key="[" line="74" column="38" />
-        <mark key="]" line="74" column="38" />
-        <mark key="." line="74" column="38" />
-        <mark key="^" line="73" column="68" />
+        <mark key="[" line="122" column="37" />
+        <mark key="]" line="122" column="37" />
+        <mark key="." line="122" column="37" />
+        <mark key="^" line="125" column="41" />
       </file>
       <file name="$USER_HOME$/projects/um/database/migrations/2018_01_11_155143_create_requisites_table.php" timestamp="1517232241706">
         <mark key="[" line="21" column="26" />
@@ -776,7 +776,7 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517999749830">
+      <file name="/Dummy.txt" timestamp="1518017432757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/database/factories/SpaceFactory.php" timestamp="1515749663973">
@@ -946,10 +946,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
