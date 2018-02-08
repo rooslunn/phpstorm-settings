@@ -53,11 +53,11 @@
         <mark key="." line="38" column="7" />
         <mark key="^" line="38" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/um/.gitignore" timestamp="1518079259518">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/projects/um/.gitignore" timestamp="1518084784041">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="^" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/assets/js/components/SpaceModal.vue" timestamp="1516117651661">
         <mark key="[" line="51" column="119" />
@@ -119,11 +119,11 @@
         <mark key="." line="94" column="17" />
         <mark key="^" line="94" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/views/AddStream.vue" timestamp="1518082605444">
-        <mark key="[" line="179" column="70" />
-        <mark key="]" line="179" column="74" />
-        <mark key="." line="179" column="74" />
-        <mark key="^" line="179" column="74" />
+      <file name="$USER_HOME$/projects/um/resources/assets/js/components/views/AddStream.vue" timestamp="1518085152769">
+        <mark key="[" line="179" column="25" />
+        <mark key="]" line="183" column="43" />
+        <mark key="." line="183" column="43" />
+        <mark key="^" line="183" column="43" />
       </file>
       <file name="$USER_HOME$/projects/um/database/migrations/2018_01_11_155143_create_requisites_table.php" timestamp="1517232241706">
         <mark key="[" line="21" column="26" />
@@ -431,11 +431,11 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/lang/en/streams.php" timestamp="1518081990428">
-        <mark key="[" line="29" column="36" />
-        <mark key="]" line="29" column="34" />
-        <mark key="." line="29" column="34" />
-        <mark key="^" line="29" column="34" />
+      <file name="$USER_HOME$/projects/um/resources/lang/en/streams.php" timestamp="1518084534388">
+        <mark key="[" line="36" column="62" />
+        <mark key="]" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+        <mark key="^" line="37" column="33" />
       </file>
       <file name="$USER_HOME$/tests/gog/app/Providers/AppServiceProvider.php" timestamp="1516372908879">
         <mark key="[" line="4" column="39" />
@@ -954,44 +954,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>success</text>
+        <text>link</text>
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text>link</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3dhbCgiU2F2ZWQiLCAiR29vZCBnaXJsIiwgInN1Y2Nlc3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0LXRleHQKICAgICAgICAgICAgICAgICAgICA6ZmllbGQtbGFiZWw9InRoaXMuJHRyYW5zKCdzdHJlYW1zLmZpZWxkLWFsaWFzLWxhbmRpbmcnKSIKICAgICAgICAgICAgICAgICAgICA6ZmllbGQtaWQ9InN0cmVhbS5kZXRhaWxzLmFsaWFzLmxpbmsiCiAgICAgICAgICAgICAgICAgICAgdi1tb2RlbD0ic3RyZWFtLmRldGFpbHMuYWxpYXMubGluayIKICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ2NyZWF0ZWRfYXQnKS0+ZGVmYXVsdChEQjo6cmF3KCdDVVJSRU5UX1RJTUVTVEFNUCcpKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ3VwZGF0ZWRfYXQnKS0+ZGVmYXVsdChEQjo6cmF3KCdDVVJSRU5UX1RJTUVTVEFNUCBvbiB1cGRhdGUgQ1VSUkVOVF9USU1FU1RBTVAnKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">L3N0b3JhZ2UvbGFuZGluZ3MvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ2NyZWF0ZWRfYXQnKS0+ZGVmYXVsdChEQjo6cmF3KCdDVVJSRU5UX1RJTUVTVEFNUCcpKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ3VwZGF0ZWRfYXQnKS0+ZGVmYXVsdChEQjo6cmF3KCdDVVJSRU5UX1RJTUVTVEFNUCBvbiB1cGRhdGUgQ1VSUkVOVF9USU1FU1RBTVAnKSk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">L3N0b3JhZ2UvbGFuZGluZ3MvKgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">L3B1YmxpZC9qcwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>function () {
     return view('login');
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>function () {
     return view('login');
 }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdMYW5kaW5nIHRvIFN0cmVhbSAoVGVzdCAyKScsCiAgICAgICAgICAgICAgICAncGF0aCcgPT4gIi9ob21lL3J1c3MvcHJvamVjdHMvdW0vc3RvcmFnZS9jb250ZW50L3ByZWxhbmRpbmdzLzE0MTVfY29tIiwKICAgICAgICAgICAgICAgICdsYW5ndWFnZScgPT4gJ2VuJywKICAgICAgICAgICAgICAgICdncm91cHNfaWQnID0+IDAsCiAgICAgICAgICAgICAgICAnbGluaycgPT4gJ2h0dHA6Ly9sYW5kaW5nLnN0cmVhbTIudGVzdCcsCiAgICAgICAgICAgICAgICAncHJlbGFuZCcgPT4gMCwKICAgICAgICAgICAgICAgICdtYWluX2xhbmRfaWQnID0+IDAsCiAgICAgICAgICAgIF0sCgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtYWluX2xhbmRfaWQnID0+IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdMYW5kaW5nIHRvIFN0cmVhbSAoVGVzdCAyKScsCiAgICAgICAgICAgICAgICAncGF0aCcgPT4gIi9ob21lL3J1c3MvcHJvamVjdHMvdW0vc3RvcmFnZS9jb250ZW50L3ByZWxhbmRpbmdzLzE0MTVfY29tIiwKICAgICAgICAgICAgICAgICdsYW5ndWFnZScgPT4gJ2VuJywKICAgICAgICAgICAgICAgICdncm91cHNfaWQnID0+IDAsCiAgICAgICAgICAgICAgICAnbGluaycgPT4gJ2h0dHA6Ly9sYW5kaW5nLnN0cmVhbTIudGVzdCcsCiAgICAgICAgICAgICAgICAncHJlbGFuZCcgPT4gMCwKICAgICAgICAgICAgICAgICdtYWluX2xhbmRfaWQnID0+IDAsCiAgICAgICAgICAgIF0sCgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdtYWluX2xhbmRfaWQnID0+IDAsCg==</text>
