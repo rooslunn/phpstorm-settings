@@ -1,16 +1,17 @@
 <scheme name="GitHub copy" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="0.9166667" />
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2018-01-09T15:00:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-02-05T17:50:48</property>
+    <property name="modified">2018-02-09T01:24:02</property>
     <property name="originalScheme">GitHub</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="10" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="METHOD_SEPARATORS_COLOR" value="" />
