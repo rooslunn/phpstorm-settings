@@ -119,11 +119,11 @@
         <mark key="." line="94" column="17" />
         <mark key="^" line="94" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/views/AddStream.vue" timestamp="1518085152769">
-        <mark key="[" line="179" column="25" />
-        <mark key="]" line="183" column="43" />
-        <mark key="." line="183" column="43" />
-        <mark key="^" line="183" column="43" />
+      <file name="$USER_HOME$/projects/um/resources/assets/js/components/views/AddStream.vue" timestamp="1518086083924">
+        <mark key="[" line="128" column="61" />
+        <mark key="]" line="128" column="82" />
+        <mark key="." line="128" column="82" />
+        <mark key="^" line="128" column="82" />
       </file>
       <file name="$USER_HOME$/projects/um/database/migrations/2018_01_11_155143_create_requisites_table.php" timestamp="1517232241706">
         <mark key="[" line="21" column="26" />
@@ -431,11 +431,11 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/lang/en/streams.php" timestamp="1518084534388">
-        <mark key="[" line="36" column="62" />
-        <mark key="]" line="37" column="33" />
-        <mark key="." line="37" column="33" />
-        <mark key="^" line="37" column="33" />
+      <file name="$USER_HOME$/projects/um/resources/lang/en/streams.php" timestamp="1518086206481">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="69" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="34" />
       </file>
       <file name="$USER_HOME$/tests/gog/app/Providers/AppServiceProvider.php" timestamp="1516372908879">
         <mark key="[" line="4" column="39" />
@@ -953,48 +953,44 @@
       <jump line="105" column="0" filename="$USER_HOME$/projects/um/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>link</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdmaWVsZC1zZW5kX3JlcXVlc3Qtb25fYXBwcm92ZWQnID0+ICdTZW5kIFJlcXVlc3Qgd2hlbiBhcHByb3ZlZCcsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>link</text>
+        <text>created</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0LXRleHQKICAgICAgICAgICAgICAgICAgICA6ZmllbGQtbGFiZWw9InRoaXMuJHRyYW5zKCdzdHJlYW1zLmZpZWxkLWFsaWFzLWxhbmRpbmcnKSIKICAgICAgICAgICAgICAgICAgICA6ZmllbGQtaWQ9InN0cmVhbS5kZXRhaWxzLmFsaWFzLmxpbmsiCiAgICAgICAgICAgICAgICAgICAgdi1tb2RlbD0ic3RyZWFtLmRldGFpbHMuYWxpYXMubGluayIKICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICdmaWVsZC1zZW5kX3JlcXVlc3Qtb25fYXBwcm92ZWQnID0+ICdTZW5kIFJlcXVlc3Qgd2hlbiBhcHByb3ZlZCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICdmaWVsZC1uby1sYWJlbCcgPT4gJycsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ2NyZWF0ZWRfYXQnKS0+ZGVmYXVsdChEQjo6cmF3KCdDVVJSRU5UX1RJTUVTVEFNUCcpKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ3VwZGF0ZWRfYXQnKS0+ZGVmYXVsdChEQjo6cmF3KCdDVVJSRU5UX1RJTUVTVEFNUCBvbiB1cGRhdGUgQ1VSUkVOVF9USU1FU1RBTVAnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2lucHV0LXRleHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">L3N0b3JhZ2UvbGFuZGluZ3MvKgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2lucHV0LXNlbGVjdC1hamF4Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">L3B1YmxpZC9qcwo=</text>
+        <text encoding="base64">ICAgICAgICA8L2lucHV0LXNlbGVjdC1hamF4Pgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>function () {
-    return view('login');
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8L2lucHV0LXNlbGVjdC1hamF4Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2lucHV0LWNoZWNrYm94Pgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>function () {
-    return view('login');
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8L2lucHV0LWNoZWNrYm94Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdMYW5kaW5nIHRvIFN0cmVhbSAoVGVzdCAyKScsCiAgICAgICAgICAgICAgICAncGF0aCcgPT4gIi9ob21lL3J1c3MvcHJvamVjdHMvdW0vc3RvcmFnZS9jb250ZW50L3ByZWxhbmRpbmdzLzE0MTVfY29tIiwKICAgICAgICAgICAgICAgICdsYW5ndWFnZScgPT4gJ2VuJywKICAgICAgICAgICAgICAgICdncm91cHNfaWQnID0+IDAsCiAgICAgICAgICAgICAgICAnbGluaycgPT4gJ2h0dHA6Ly9sYW5kaW5nLnN0cmVhbTIudGVzdCcsCiAgICAgICAgICAgICAgICAncHJlbGFuZCcgPT4gMCwKICAgICAgICAgICAgICAgICdtYWluX2xhbmRfaWQnID0+IDAsCiAgICAgICAgICAgIF0sCgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2lucHV0LWNoZWNrYm94Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtYWluX2xhbmRfaWQnID0+IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2lucHV0LWNoZWNrYm94Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>531</text>
