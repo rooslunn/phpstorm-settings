@@ -119,6 +119,12 @@
         <mark key="." line="94" column="17" />
         <mark key="^" line="94" column="54" />
       </file>
+      <file name="$USER_HOME$/projects/um/resources/assets/js/components/views/AddStream.vue" timestamp="1518082605444">
+        <mark key="[" line="179" column="70" />
+        <mark key="]" line="179" column="74" />
+        <mark key="." line="179" column="74" />
+        <mark key="^" line="179" column="74" />
+      </file>
       <file name="$USER_HOME$/projects/um/database/migrations/2018_01_11_155143_create_requisites_table.php" timestamp="1517232241706">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
@@ -395,6 +401,12 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="10" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Streams/TableHeadersController.php" timestamp="1517992586020">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="15" column="67" />
+        <mark key="^" line="15" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/um/app/Traits/UmMigrationDates.php" timestamp="1517581705132">
         <mark key="[" line="11" column="41" />
         <mark key="]" line="12" column="33" />
@@ -419,7 +431,12 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/lang/en/streams.php" timestamp="1518015262395" />
+      <file name="$USER_HOME$/projects/um/resources/lang/en/streams.php" timestamp="1518081990428">
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
+      </file>
       <file name="$USER_HOME$/tests/gog/app/Providers/AppServiceProvider.php" timestamp="1516372908879">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="16" column="41" />
@@ -667,6 +684,12 @@
         <mark key="]" line="11" column="5" />
         <mark key="^" line="11" column="5" />
         <mark key="." line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Streams/TableItemsController.php" timestamp="1517992610443">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/views/spaces/index.blade.php" timestamp="1517926735166">
         <mark key="[" line="50" column="0" />
@@ -930,17 +953,17 @@
       <jump line="105" column="0" filename="$USER_HOME$/projects/um/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ2NyZWF0ZWRfYXQnKS0+ZGVmYXVsdChEQjo6cmF3KCdDVVJSRU5UX1RJTUVTVEFNUCcpKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ3VwZGF0ZWRfYXQnKS0+ZGVmYXVsdChEQjo6cmF3KCdDVVJSRU5UX1RJTUVTVEFNUCBvbiB1cGRhdGUgQ1VSUkVOVF9USU1FU1RBTVAnKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>success</text>
       </register>
       <register name="-" type="4">
-        <text>disabled</text>
+        <text>success</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0LXRleHQgdi1mb3I9Im4gaW4gNSIgOmtleT0ibiIKICAgICAgICAgICAgICAgICAgICA6ZmllbGQtbGFiZWw9IidTVUJJRCcgKyBuIgogICAgICAgICAgICAgICAgICAgIDpmaWVsZC1pZD0iJ3N0cmVhbS5kZXRhaWxzLnN1YmlkLnN1YmlkcycgKyBuIgogICAgICAgICAgICAgICAgICAgIHYtbW9kZWw9InN0cmVhbS5kZXRhaWxzLnN1YmlkLnN1Ymlkc1tuXSIKICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3dhbCgiU2F2ZWQiLCAiR29vZCBnaXJsIiwgInN1Y2Nlc3MiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ2NyZWF0ZWRfYXQnKS0+ZGVmYXVsdChEQjo6cmF3KCdDVVJSRU5UX1RJTUVTVEFNUCcpKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ3VwZGF0ZWRfYXQnKS0+ZGVmYXVsdChEQjo6cmF3KCdDVVJSRU5UX1RJTUVTVEFNUCBvbiB1cGRhdGUgQ1VSUkVOVF9USU1FU1RBTVAnKSk7Cg==</text>
