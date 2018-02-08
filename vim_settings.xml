@@ -53,10 +53,11 @@
         <mark key="." line="38" column="7" />
         <mark key="^" line="38" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/um/.gitignore" timestamp="1517732061328">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/um/.gitignore" timestamp="1518019491047">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/assets/js/components/SpaceModal.vue" timestamp="1516117651661">
         <mark key="[" line="51" column="119" />
@@ -118,24 +119,11 @@
         <mark key="." line="94" column="17" />
         <mark key="^" line="94" column="54" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/views/AddStream.vue" timestamp="1518017747890">
-        <mark key="'" line="73" column="31" />
-        <mark key="[" line="122" column="37" />
-        <mark key="]" line="122" column="37" />
-        <mark key="." line="122" column="37" />
-        <mark key="^" line="125" column="41" />
-      </file>
       <file name="$USER_HOME$/projects/um/database/migrations/2018_01_11_155143_create_requisites_table.php" timestamp="1517232241706">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="26" />
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/um/app/helpers.php" timestamp="1518013124639">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Models/Source.php" timestamp="1517485004719">
         <mark key="[" line="3" column="0" />
@@ -407,12 +395,6 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Streams/TableHeadersController.php" timestamp="1517992586020">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="15" column="67" />
-        <mark key="^" line="15" column="67" />
-      </file>
       <file name="$USER_HOME$/projects/um/app/Traits/UmMigrationDates.php" timestamp="1517581705132">
         <mark key="[" line="11" column="41" />
         <mark key="]" line="12" column="33" />
@@ -437,12 +419,7 @@
         <mark key="^" line="14" column="56" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/um/resources/lang/en/streams.php" timestamp="1518015262395">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="22" />
-        <mark key="." line="32" column="22" />
-        <mark key="^" line="32" column="22" />
-      </file>
+      <file name="$USER_HOME$/projects/um/resources/lang/en/streams.php" timestamp="1518015262395" />
       <file name="$USER_HOME$/tests/gog/app/Providers/AppServiceProvider.php" timestamp="1516372908879">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="16" column="41" />
@@ -684,12 +661,6 @@
         <mark key="^" line="11" column="5" />
         <mark key="." line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Streams/TableItemsController.php" timestamp="1517992610443">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="18" column="39" />
-        <mark key="^" line="18" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/um/resources/views/spaces/index.blade.php" timestamp="1517926735166">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="82" column="25" />
@@ -726,10 +697,10 @@
         <mark key="^" line="11" column="15" />
       </file>
       <file name="$USER_HOME$/projects/um/webpack.mix.js" timestamp="1518018609126">
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="55" />
-        <mark key="." line="14" column="55" />
-        <mark key="^" line="14" column="55" />
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+        <mark key="^" line="13" column="55" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Http/Controllers/Streams/PostController.php" timestamp="1517489722374">
         <mark key="[" line="12" column="43" />
