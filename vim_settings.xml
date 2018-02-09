@@ -479,11 +479,11 @@
       <file name="$USER_HOME$/projects/newum/resources/assets/js/views/Hello.vue" timestamp="1517585826851">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/um/.env" timestamp="1517903922182">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
+      <file name="$USER_HOME$/projects/um/.env" timestamp="1518132682933">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/projects/um/database/migrations/2018_01_29_102409_create_streams_table.php" timestamp="1518090726033">
         <mark key="[" line="28" column="0" />
@@ -953,10 +953,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{&quot;subid&quot;:{&quot;checked&quot;:true,&quot;id&quot;:&quot;3&quot;,&quot;subids&quot;:{&quot;1&quot;:&quot;{{campaign_id}}&quot;,&quot;2&quot;:&quot;{{banner_id}}&quot;,&quot;3&quot;:&quot;{{geo}}&quot;,&quot;4&quot;:&quot;{{age}}&quot;,&quot;5&quot;:&quot;{{gender}}&quot;}},&quot;metric&quot;:{&quot;checked&quot;:true,&quot;google_id&quot;:&quot;google_id&quot;,&quot;yandex_id&quot;:&quot;yandex_id&quot;,&quot;mailru_id&quot;:&quot;mailru_id&quot;,&quot;mixadvert_id&quot;:&quot;mix_id&quot;,&quot;facebook_id&quot;:&quot;fb_id&quot;,&quot;vk_id&quot;:&quot;vk_id&quot;},&quot;offer_disabled&quot;:{&quot;checked&quot;:true,&quot;link&quot;:&quot;link_to_disabled&quot;},&quot;alias&quot;:{&quot;checked&quot;:true,&quot;link&quot;:&quot;alias_landing&quot;,&quot;blog&quot;:&quot;alias_blog&quot;},&quot;global_postback&quot;:{&quot;checked&quot;:true,&quot;on_create&quot;:&quot;global_on_create&quot;,&quot;on_approve&quot;:&quot;global_on_approve&quot;,&quot;on_cancel&quot;:&quot;global_on_cancel&quot;},&quot;local_postback&quot;:{&quot;on_create&quot;:null,&quot;on_approve&quot;:null,&quot;on_cancel&quot;:null}}</text>
+        <text encoding="base64">PHBhc3N3b3JkPg==</text>
       </register>
       <register name="-" type="4">
-        <text>{&quot;subid&quot;:{&quot;checked&quot;:true,&quot;id&quot;:&quot;3&quot;,&quot;subids&quot;:{&quot;1&quot;:&quot;{{campaign_id}}&quot;,&quot;2&quot;:&quot;{{banner_id}}&quot;,&quot;3&quot;:&quot;{{geo}}&quot;,&quot;4&quot;:&quot;{{age}}&quot;,&quot;5&quot;:&quot;{{gender}}&quot;}},&quot;metric&quot;:{&quot;checked&quot;:true,&quot;google_id&quot;:&quot;google_id&quot;,&quot;yandex_id&quot;:&quot;yandex_id&quot;,&quot;mailru_id&quot;:&quot;mailru_id&quot;,&quot;mixadvert_id&quot;:&quot;mix_id&quot;,&quot;facebook_id&quot;:&quot;fb_id&quot;,&quot;vk_id&quot;:&quot;vk_id&quot;},&quot;offer_disabled&quot;:{&quot;checked&quot;:true,&quot;link&quot;:&quot;link_to_disabled&quot;},&quot;alias&quot;:{&quot;checked&quot;:true,&quot;link&quot;:&quot;alias_landing&quot;,&quot;blog&quot;:&quot;alias_blog&quot;},&quot;global_postback&quot;:{&quot;checked&quot;:true,&quot;on_create&quot;:&quot;global_on_create&quot;,&quot;on_approve&quot;:&quot;global_on_approve&quot;,&quot;on_cancel&quot;:&quot;global_on_cancel&quot;},&quot;local_postback&quot;:{&quot;on_create&quot;:null,&quot;on_approve&quot;:null,&quot;on_cancel&quot;:null}}</text>
+        <text encoding="base64">PHBhc3N3b3JkPg==</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
