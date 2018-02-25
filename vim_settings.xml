@@ -277,15 +277,18 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
+      <file name="$USER_HOME$/projects/first-pwa/work/service-worker.js" timestamp="1519578662598">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/690d4866-a952-421c-a5af-0cf75c25a9c4/console.sql" timestamp="1517218843369">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/first-pwa/work/scripts/app.js" timestamp="1519569631015">
-        <mark key="'" line="353" column="0" />
-        <mark key="[" line="56" column="7" />
+      <file name="$USER_HOME$/projects/first-pwa/work/scripts/app.js" timestamp="1519578488280">
+        <mark key="'" line="53" column="5" />
+        <mark key="[" line="352" column="40" />
         <mark key="]" line="57" column="5" />
         <mark key="." line="57" column="5" />
         <mark key="^" line="57" column="5" />
@@ -673,7 +676,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/first-pwa/work/index.html" timestamp="1519568781757" />
       <file name="$USER_HOME$/projects/um/storage/landing/1414/styles.css" timestamp="1516279626748">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -994,6 +996,7 @@
       <jump line="311" column="30" filename="$USER_HOME$/projects/first-pwa/work/scripts/app.js" />
       <jump line="332" column="81" filename="$USER_HOME$/projects/first-pwa/work/scripts/app.js" />
       <jump line="344" column="0" filename="$USER_HOME$/projects/first-pwa/work/scripts/app.js" />
+      <jump line="53" column="5" filename="$USER_HOME$/projects/first-pwa/work/scripts/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
