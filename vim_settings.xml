@@ -270,6 +270,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/roach-leads/.env.example" timestamp="1519659615388">
+        <mark key="[" line="40" column="46" />
+      </file>
       <file name="$USER_HOME$/projects/um/database/seeds/SubidSeeder.php" timestamp="1518010022912">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="15" column="55" />
@@ -483,6 +486,11 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="46" />
         <mark key="^" line="17" column="57" />
+      </file>
+      <file name="$USER_HOME$/projects/roach-leads/.env" timestamp="1519659674839">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/assets/js/components/SpaceEditModal.vue" timestamp="1517820146253">
         <mark key="[" line="153" column="16" />
@@ -1003,10 +1011,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>JhbGciOiJIUzI1N0eXAiOiJKV1QiLC</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>JhbGciOiJIUzI1N0eXAiOiJKV1QiLC</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
