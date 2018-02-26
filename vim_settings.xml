@@ -277,8 +277,11 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/first-pwa/work/service-worker.js" timestamp="1519578662598">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/first-pwa/work/service-worker.js" timestamp="1519620063638">
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="32" column="43" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="32" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/690d4866-a952-421c-a5af-0cf75c25a9c4/console.sql" timestamp="1517218843369">
         <mark key="[" line="2" column="0" />
@@ -999,11 +1002,11 @@
       <jump line="53" column="5" filename="$USER_HOME$/projects/first-pwa/work/scripts/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIGFkZCBzdGFydHVwIGNvZGUgaGVyZQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
