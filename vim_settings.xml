@@ -9,6 +9,11 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/probes/ukrtecch/task12/index.html" timestamp="1519812982270">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/um/database/migrations/2017_12_26_133113_create_offers_table.php" timestamp="1517769165716">
         <mark key="[" line="18" column="35" />
         <mark key="]" line="18" column="60" />
@@ -228,11 +233,11 @@
         <mark key="^" line="29" column="42" />
         <mark key="." line="29" column="42" />
       </file>
-      <file name="$USER_HOME$/probes/ukrtecch/task12/index.php" timestamp="1519810126488">
-        <mark key="[" line="13" column="72" />
-        <mark key="]" line="13" column="86" />
-        <mark key="." line="13" column="86" />
-        <mark key="^" line="13" column="86" />
+      <file name="$USER_HOME$/probes/ukrtecch/task12/index.php" timestamp="1519816330549">
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="16" />
+        <mark key="^" line="58" column="11" />
       </file>
       <file name="$USER_HOME$/projects/um/routes/api.php" timestamp="1518191869990">
         <mark key="[" line="29" column="23" />
@@ -525,11 +530,11 @@
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/probes/ukrtecch/task12/src/Tree.php" timestamp="1519810267585">
-        <mark key="[" line="43" column="48" />
-        <mark key="]" line="43" column="55" />
-        <mark key="." line="43" column="55" />
-        <mark key="^" line="43" column="55" />
+      <file name="$USER_HOME$/probes/ukrtecch/task12/src/Tree.php" timestamp="1519814170706">
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="20" />
+        <mark key="." line="72" column="20" />
+        <mark key="^" line="62" column="59" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/assets/js/components/SpaceEditModal.vue" timestamp="1517820146253">
         <mark key="[" line="153" column="16" />
@@ -821,7 +826,7 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="/PHP Console" timestamp="1519810240357">
+      <file name="/PHP Console" timestamp="1519812027329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Scopes/UserScope.php" timestamp="1517479658398">
@@ -1047,43 +1052,45 @@
       <jump line="332" column="81" filename="$USER_HOME$/projects/first-pwa/work/scripts/app.js" />
       <jump line="344" column="0" filename="$USER_HOME$/projects/first-pwa/work/scripts/app.js" />
       <jump line="53" column="5" filename="$USER_HOME$/projects/first-pwa/work/scripts/app.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/probes/ukrtecch/task12/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/probes/ukrtecch/task12/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>L</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJhdXRvbG9hZCI6IHsKICAgICAgICAiY2xhc3NtYXAiOiBbCiAgICAgICAgICAgICJkYXRhYmFzZS9zZWVkcyIsCiAgICAgICAgICAgICJkYXRhYmFzZS9mYWN0b3JpZXMiCiAgICAgICAgXSwKICAgICAgICAicHNyLTQiOiB7CiAgICAgICAgICAgICJBcHBcXCI6ICJhcHAvIgogICAgICAgIH0KICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocGFyZW50W1swXV0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgdHJhdmVyc2UocGFyZW50WzBdLCBjdXJyZW50RGl2Tm9kZSk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgampqampqampqampqampqago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFRhc2sxMlx7Tm9kZSwgVHJlZX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFRhc2sxMlxUcmVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIE5vZGU7CnVzZSBUcmVlOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFRhc2sxMjsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnQgPQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFRhc2sxMjsK</text>
+        <text encoding="base64">ICAgIAp9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
