@@ -20,6 +20,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/clickbait/composer.json" timestamp="1519809349098">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="28" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/um/app/Http/Controllers/Api/Select/SpacesController.php" timestamp="1517479864042">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="34" />
@@ -224,11 +228,11 @@
         <mark key="^" line="29" column="42" />
         <mark key="." line="29" column="42" />
       </file>
-      <file name="$USER_HOME$/probes/ukrtecch/task12/index.php" timestamp="1519808272656">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/probes/ukrtecch/task12/index.php" timestamp="1519810126488">
+        <mark key="[" line="13" column="72" />
+        <mark key="]" line="13" column="86" />
+        <mark key="." line="13" column="86" />
+        <mark key="^" line="13" column="86" />
       </file>
       <file name="$USER_HOME$/projects/um/routes/api.php" timestamp="1518191869990">
         <mark key="[" line="29" column="23" />
@@ -284,6 +288,12 @@
       </file>
       <file name="$USER_HOME$/projects/roach-leads/.env.example" timestamp="1519659615388">
         <mark key="[" line="40" column="46" />
+      </file>
+      <file name="$USER_HOME$/probes/ukrtecch/task12/composer.json" timestamp="1519809395337">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/projects/um/database/seeds/SubidSeeder.php" timestamp="1518010022912">
         <mark key="'" line="3" column="0" />
@@ -463,6 +473,12 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/probes/ukrtecch/task12/src/Node.php" timestamp="1519809597790">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/um/app/Providers/Repositories/SpacesRepositoryProvider.php" timestamp="1516008051586">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="11" column="3" />
@@ -508,6 +524,12 @@
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/probes/ukrtecch/task12/src/Tree.php" timestamp="1519810267585">
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="43" column="55" />
+        <mark key="." line="43" column="55" />
+        <mark key="^" line="43" column="55" />
       </file>
       <file name="$USER_HOME$/projects/um/resources/assets/js/components/SpaceEditModal.vue" timestamp="1517820146253">
         <mark key="[" line="153" column="16" />
@@ -799,7 +821,7 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="/PHP Console" timestamp="1518011383541">
+      <file name="/PHP Console" timestamp="1519810240357">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Scopes/UserScope.php" timestamp="1517479658398">
@@ -1027,44 +1049,44 @@
       <jump line="53" column="5" filename="$USER_HOME$/projects/first-pwa/work/scripts/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cm9vdCA9IG51bGw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXJyYXlfa2V5X2V4aXN0cygkbm9kZS0+cGFyZW50X2lkLCAkdGhpcy0+aGVhcCkpIHsK</text>
+        <text encoding="base64">ICAgICJhdXRvbG9hZCI6IHsKICAgICAgICAiY2xhc3NtYXAiOiBbCiAgICAgICAgICAgICJkYXRhYmFzZS9zZWVkcyIsCiAgICAgICAgICAgICJkYXRhYmFzZS9mYWN0b3JpZXMiCiAgICAgICAgXSwKICAgICAgICAicHNyLTQiOiB7CiAgICAgICAgICAgICJBcHBcXCI6ICJhcHAvIgogICAgICAgIH0KICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cm9vdCA9IG51bGw7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bGV2ZWwgPSBudWxsOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAkbGV2ZWw7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIFRhc2sxMlx7Tm9kZSwgVHJlZX07Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIFRhc2sxMlxUcmVlOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIE5vZGU7CnVzZSBUcmVlOwoK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxldmVsKys7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIFRhc2sxMjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXJyYXlfa2V5X2V4aXN0cygkbm9kZS0+cGFyZW50X2lkLCAkdGhpcy0+aGVhcCkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISkK</text>
+        <text encoding="base64">bmFtZXNwYWNlIFRhc2sxMjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>531</text>
