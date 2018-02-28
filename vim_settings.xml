@@ -239,11 +239,11 @@
         <mark key="^" line="29" column="42" />
         <mark key="." line="29" column="42" />
       </file>
-      <file name="$USER_HOME$/probes/ukrtecch/task12/index.php" timestamp="1519830264375">
-        <mark key="[" line="66" column="47" />
-        <mark key="]" line="32" column="46" />
-        <mark key="." line="32" column="46" />
-        <mark key="^" line="32" column="46" />
+      <file name="$USER_HOME$/probes/ukrtecch/task12/index.php" timestamp="1519831129778">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/projects/um/routes/api.php" timestamp="1518191869990">
         <mark key="[" line="29" column="23" />
@@ -1064,17 +1064,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/probes/ukrtecch/task12/tree.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>33</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>33</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodGhpcy50cmVlW3Jvb3QuaWRdWzBdKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMudHJhdmVyc2UodGhpcy50cmVlW3Jvb3QuaWRdWzBdKQogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIG5ldyBOb2RlKDIyLCAzKSwgbmV3IE5vZGUoMzMsIDMpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
