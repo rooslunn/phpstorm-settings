@@ -146,7 +146,7 @@
         <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/projects/eclettico/app/User.php" timestamp="1519908301830">
-        <mark key="[" line="10" column="19" />
+        <mark key="[" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Models/Source.php" timestamp="1517485004719">
         <mark key="[" line="3" column="0" />
@@ -220,6 +220,11 @@
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/eclettico/app/Providers/AuthServiceProvider.php" timestamp="1519910254132">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/storage/landings/1414/script.js" timestamp="1516361453375">
         <mark key="[" line="0" column="35" />
@@ -804,6 +809,11 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="16" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/eclettico/config/auth.php" timestamp="1519910344157">
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/um/app/Http/Controllers/Resource/ImagesConroller.php" timestamp="1517922344004">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="15" />
@@ -1061,10 +1071,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>token</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
@@ -1073,31 +1083,31 @@
         <text encoding="base64">ICAgIG5ldyBOb2RlKDIyLCAzKSwgbmV3IE5vZGUoMzMsIDMpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpX2RvbS5zZXRBdHRyaWJ1dGUoJ2lkJywgbm9kZS5pZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpX2RvbS5zZXRBdHRyaWJ1dGUoJ2lkJywgbm9kZS5pZCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB1bF9kb20gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCd1bCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVsX2RvbS5hcHBlbmRDaGlsZChsaV9kb20pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB1bF9kb20gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCd1bCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVsX2RvbS5zZXRBdHRyaWJ1dGUoJ2lkJywgbm9kZS5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVsX2RvbS5hcHBlbmRDaGlsZChsaV9kb20pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpX2RvbS5zZXRBdHRyaWJ1dGUoJ2lkJywgbm9kZS5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVsX2RvbS5zZXRBdHRyaWJ1dGUoJ2lkJywgbm9kZS5pZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpX2RvbS5zZXRBdHRyaWJ1dGUoJ2lkJywgbm9kZS5pZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>531</text>
