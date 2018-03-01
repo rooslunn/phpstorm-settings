@@ -286,6 +286,12 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/eclettico/.env" timestamp="1519899130147">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/projects/newum/resources/assets/js/views/UserIndex.vue" timestamp="1517598267206">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="15" column="7" />
@@ -1071,10 +1077,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>33</text>
+        <text>secret</text>
       </register>
       <register name="-" type="4">
-        <text>33</text>
+        <text>secret</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
