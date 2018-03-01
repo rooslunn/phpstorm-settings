@@ -145,6 +145,9 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/eclettico/app/User.php" timestamp="1519908301830">
+        <mark key="[" line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/um/app/Models/Source.php" timestamp="1517485004719">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="38" />
@@ -191,6 +194,9 @@
         <mark key="]" line="14" column="46" />
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="71" />
+      </file>
+      <file name="$USER_HOME$/projects/eclettico/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1519908278100">
+        <mark key="[" line="21" column="33" />
       </file>
       <file name="$USER_HOME$/projects/um/app/Support/UmBladeCompiler.php" timestamp="1517758886985">
         <mark key="[" line="13" column="0" />
@@ -286,11 +292,11 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/eclettico/.env" timestamp="1519899130147">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
+      <file name="$USER_HOME$/projects/eclettico/.env" timestamp="1519908856697">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="16" />
+        <mark key="^" line="30" column="16" />
       </file>
       <file name="$USER_HOME$/projects/newum/resources/assets/js/views/UserIndex.vue" timestamp="1517598267206">
         <mark key="[" line="6" column="0" />
@@ -312,13 +318,6 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/um/database/seeds/SubidSeeder.php" timestamp="1518010022912">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="15" column="55" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="15" column="55" />
-        <mark key="^" line="15" column="55" />
-      </file>
       <file name="$USER_HOME$/probes/ukrtecch/task12/readme.md" timestamp="1519890138245">
         <mark key="[" line="0" column="0" />
       </file>
@@ -333,13 +332,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/first-pwa/work/scripts/app.js" timestamp="1519578488280">
-        <mark key="'" line="53" column="5" />
-        <mark key="[" line="352" column="40" />
-        <mark key="]" line="57" column="5" />
-        <mark key="." line="57" column="5" />
-        <mark key="^" line="57" column="5" />
       </file>
       <file name="$USER_HOME$/projects/um/public/js/lib_app.js" timestamp="1515664657009">
         <mark key="[" line="0" column="30" />
@@ -444,13 +436,6 @@
         <mark key="]" line="24" column="12" />
         <mark key="^" line="24" column="12" />
         <mark key="." line="24" column="12" />
-      </file>
-      <file name="$USER_HOME$/projects/um/resources/assets/js/components/views/AddSpace.vue" timestamp="1518192349702">
-        <mark key="'" line="142" column="26" />
-        <mark key="[" line="143" column="80" />
-        <mark key="]" line="143" column="20" />
-        <mark key="." line="143" column="20" />
-        <mark key="^" line="143" column="20" />
       </file>
       <file name="$USER_HOME$/projects/newum/resources/assets/js/app.js" timestamp="1517763387314">
         <mark key="[" line="10" column="0" />
@@ -648,13 +633,6 @@
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
         <mark key="^" line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/um/routes/web.php" timestamp="1518078631505">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="38" />
-        <mark key="^" line="6" column="37" />
       </file>
       <file name="$USER_HOME$/projects/um/app/UseCases/AddStream/AddStreamUseCase.php" timestamp="1518011152185">
         <mark key="[" line="68" column="0" />
@@ -865,6 +843,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="16" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3b36bb8f-d6e2-4227-99be-b104d2114cc0/console.sql" timestamp="1519908356261">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/tests/gog/.env" timestamp="1516371852467">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="14" />
@@ -883,7 +867,7 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519899746937">
+      <file name="/Dummy.txt" timestamp="1519908111500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/um/database/factories/SpaceFactory.php" timestamp="1515749663973">
@@ -1077,10 +1061,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>secret</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>secret</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
