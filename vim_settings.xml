@@ -139,6 +139,7 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="25" />
       </file>
+      <file name="$USER_HOME$/projects/smoking-mentor/public/index.html" timestamp="1520088292741" />
       <file name="$USER_HOME$/probes/ukrtecch/task12/tree.css" timestamp="1519829694043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="14" />
@@ -381,6 +382,12 @@
         <mark key="]" line="23" column="34" />
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/smoking-mentor/index.html" timestamp="1520087624074">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/projects/um/database/migrations/2018_01_11_130453_create_space_sources_table.php" timestamp="1515676728576">
         <mark key="[" line="15" column="29" />
@@ -1075,10 +1082,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>token</text>
+        <text>Title</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text>spaces</text>
